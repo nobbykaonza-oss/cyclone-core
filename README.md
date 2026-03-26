@@ -27,3 +27,4 @@ We welcome contributions from the community! Whether you are fixing bugs, improv
 * **@nobbykaonza-oss** - Lead Architect & Primary Maintainer
 
 *Want to contribute? Check out our roadmap or open an issue!*
+This project is proudly 'Vibe Coded' built using AI-human collaboration. I am using Claude to bridge the gap between complex architectural needs and rapid prototyping.
