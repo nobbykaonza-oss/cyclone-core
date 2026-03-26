@@ -17,3 +17,13 @@ Cyclone serves as **foundational infrastructure** for developers. Unlike standar
 - [ ] **Package Distribution:** Refactor core modules for distribution via PyPI.
 - [ ] **Developer Documentation:** Comprehensive guides for using Cyclone as a transitive dependency.
 - [ ] **Plugin System:** Create a hook system for GitHub and Discord community automation.
+---
+
+## 👥 Contributors
+
+We welcome contributions from the community! Whether you are fixing bugs, improving documentation, or proposing new features, your help is appreciated.
+
+**Current Maintainers:**
+* **@nobbykaonza-oss** - Lead Architect & Primary Maintainer
+
+*Want to contribute? Check out our roadmap or open an issue!*
